@@ -8,3 +8,4 @@ bool Olya = false;
 bool Bogdan = false;
 
 // Все полные имена должны быть true
+// Все имена должны быть полными
