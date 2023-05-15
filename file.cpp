@@ -3,7 +3,7 @@ bool Vasya = false;
 bool Katya = false;
 bool Tolik = false;
 bool Petr = true;
-bool Maksim = false;
+bool Maksim = true;
 bool Olya = false;
 bool Bogdan = false;
 
