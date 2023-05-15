@@ -1,5 +1,5 @@
 bool Ivan = false;
-bool Vasya = false;
+bool Vasya = true;
 bool Katya = false;
 bool Tolik = false;
 bool Petr = false;
