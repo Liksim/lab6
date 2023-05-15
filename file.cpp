@@ -7,4 +7,4 @@ bool Maksim = true;
 bool Olya = false;
 bool Bogdan = true;
 
-// Все полные имена должны быть true
+// Все полные имена должны быть true - выполнено
