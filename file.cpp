@@ -1,4 +1,4 @@
-bool Ivan = false;
+bool Ivan = true;
 bool Vasya = false;
 bool Katya = false;
 bool Tolik = false;
