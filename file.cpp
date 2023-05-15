@@ -1,6 +1,6 @@
 bool Ivan = false;
 bool Vasya = true;
-bool Katya = false;
+bool Katya = true;
 bool Tolik = false;
 bool Petr = false;
 bool Maksim = false;
